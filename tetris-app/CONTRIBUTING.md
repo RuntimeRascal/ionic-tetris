@@ -5,7 +5,7 @@
 2. Next, `cd` into the `tetris-app` directory  
 3. Now install dependencies `npm install` 
 
-> For simplicity with using the `cli` you should just install ionic globally by executing `npm i -g ionic`  
+> For simplicity with using the `cli` you should just install ionic globally by executing `npm i -g ionic` and to install the native stuff and react hooks `npm install @ionic/react-hooks @ionic/pwa-elements`    
 
 ## Start the Project
 1. Really you can just execute `ionic serve` to `build` and start the project running at `http://localhost:8100/`  
